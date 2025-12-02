@@ -6,3 +6,4 @@ sqlalchemy==2.0.23
 pymongo
 python-dotenv
 flask
+imghdr==1.0.0
